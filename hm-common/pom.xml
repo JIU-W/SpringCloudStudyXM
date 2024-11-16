@@ -83,7 +83,6 @@
         <dependency>
             <groupId>org.springframework.amqp</groupId>
             <artifactId>spring-rabbit</artifactId>
-            <scope>provided</scope>
         </dependency>
         <!--json处理-->
         <dependency>
